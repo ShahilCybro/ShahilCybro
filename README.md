@@ -1,10 +1,13 @@
-### Hi there 👋, Mohammed Shahil
-#### Odoo Techno Functional Consultant
 ![Odoo Techno Functional Consultant](https://github.com/ShahilCybro/ShahilCybro/blob/main/Mohammed%20Shahil.png)
+
+# Mohammed Shahil
+## Odoo Techno Functional Consultant
 
 Talented Odoo Functional/Technical Consultant with experience in analyzing, designing, developing, and implementation experience of Odoo ERP in various environments.
 
-Skills: Python / PostgreSQL /OWL/ JS /JQuery/ HTML / CSS
+## Skills and Experience
+* 🥇 Python
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on Cybrosys Technologies 
 - 👯 I’m looking to collaborate on Odoo related projects. 
