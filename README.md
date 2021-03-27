@@ -1,5 +1,3 @@
-![Odoo Techno Functional Consultant](https://github.com/ShahilCybro/ShahilCybro/blob/main/Mohammed%20Shahil.png)
-
 # Mohammed Shahil
 ## Odoo Techno Functional Consultant
 
