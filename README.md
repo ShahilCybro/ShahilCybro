@@ -1,4 +1,4 @@
-<img src="https://github.com/ShahilCybro/ShahilCybro/blob/main/Mohammed%20Shahil.png" height="200px"/>
+<img src="https://github.com/ShahilCybro/ShahilCybro/blob/main/Mohammed%20Shahil.png" height="400px" width="400px"/>
 
 # Mohammed Shahil
 ## Odoo Techno Functional Consultant
